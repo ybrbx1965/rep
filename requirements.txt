@@ -10,7 +10,7 @@ itsdangerous==1.1.0
 Jinja2==2.10
 macholib==1.11
 MarkupSafe==1.1.1
-numpy==1.15.4
+numpy==1.22.0
 panda3d==1.10.0
 pefile==2018.8.8
 pygame==1.9.4
